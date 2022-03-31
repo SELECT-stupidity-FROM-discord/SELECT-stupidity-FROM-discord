@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<b>I code using my hands, pretty cool I know.</b> 
+
 <!--
 **SELECT-stupidity-FROM-discord/SELECT-stupidity-FROM-discord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
